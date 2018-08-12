@@ -1,4 +1,4 @@
-This is Project Content:
+This are Project Content that are used:
 HTML, CSS
 JAVASCRIPT
 ANGULAR
