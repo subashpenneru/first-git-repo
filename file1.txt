@@ -1,4 +1,0 @@
-Version Control System
-local
-central
-distributed
