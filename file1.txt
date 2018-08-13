@@ -1,4 +1,4 @@
 Version Control System
 local
-central
+centralized
 distributed
