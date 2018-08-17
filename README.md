@@ -2,5 +2,10 @@ This are Project Content that are used:
 HTML, CSS
 JAVASCRIPT
 ANGULAR
+ANGULAR
+ANGULAR
 JAVA
-NODE.jS
+JAVA
+JAVA
+JAVA
+JAVA
