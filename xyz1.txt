@@ -1,1 +1,2 @@
 this is new Xyz file
+new xyz text file
